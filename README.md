@@ -1,2 +1,2 @@
 # for-the-love-of-bayes
-TTIC Advanced NLP
+NLP coursework. derivations&implementations of common statistical tagging/generative model techniques. see filenames/files for more info...
